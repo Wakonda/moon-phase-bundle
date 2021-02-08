@@ -1,0 +1,9 @@
+phases:
+    full_moon: "Pleine lune"
+    new_moon: "Nouvelle lune"
+    waning_gibbous: "Gibbeuse décroissante"
+    waxing_gibbous: "Gibbeuse croissante"
+    first_quarter: "Premier quartier"
+    third_quarter: "Dernier quartier"
+    waxing_crescent: "Premier croissant"
+    waning_crescent: "Dernier croissant"
