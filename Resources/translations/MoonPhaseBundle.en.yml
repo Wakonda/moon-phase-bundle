@@ -1,0 +1,9 @@
+phases:
+    full_moon: "Full moon"
+    new_moon: "New moon"
+    waning_gibbous: "Waning gibbous"
+    waxing_gibbous: "Waxing gibbous"
+    first_quarter: "First quarter"
+    third_quarter: "Third quarter"
+    waxing_crescent: "Waxing crescent"
+    waning_crescent: "Waning crescent"

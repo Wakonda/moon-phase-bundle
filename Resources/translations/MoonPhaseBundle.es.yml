@@ -1,0 +1,9 @@
+phases:
+    full_moon: "Luna llena"
+    new_moon: "Luna nueva"
+    waning_gibbous: "Gibosa menguante"
+    waxing_gibbous: "Gibosa creciente"
+    first_quarter: "Cuarto menguante"
+    third_quarter: "Cuarto creciente"
+    waxing_crescent: "Luna menguante"
+    waning_crescent: "Luna creciente"
