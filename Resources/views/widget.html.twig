@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="{{ asset('bundles/wakondamoonphase/css/styles.css') }}" type="text/css" />
 
 <div id="container_phase_moon">
-	<img src="{{ asset('bundles/wakondamoonphase/images/'~ phase_moon() ~'.svg') }}" />
+	<img src="{{ asset('bundles/wakondamoonphase/images/'~ phase_moon() ~'.svg') }}" alt="{{ phase_moon() }}">
 	<p>{{ ('phases.'~phase_moon())|trans([], 'MoonPhaseBundle') }}</p>
 </div>
