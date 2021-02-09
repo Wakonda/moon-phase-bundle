@@ -2,7 +2,7 @@
     "name": "wakonda/moon-phase-bundle",
     "description": "Moon phase Bundle",
     "type": "symfony-bundle",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"minimum-stability": "stable",
 	
     "license": "MIT",
