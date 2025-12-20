@@ -15,7 +15,7 @@
 
   "autoload": {
     "psr-4": {
-      "Wakonda\\MoonPhaseBundle\\": "src/"
+      "Wakonda\\MoonPhaseBundle\\": "/"
     }
   },
 
