@@ -15,6 +15,12 @@ return [
 ];
 ```
 
+In your Symfony project (the one using the bundle), you need to create a symbolic linkto the project's public folder. Use this command:
+
+```bash
+php bin/console assets:install --symlink
+```
+
 ## Usage
 ### In Twig
 
